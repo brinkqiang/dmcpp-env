@@ -25,3 +25,5 @@
 - [dmnameof](https://github.com/brinkqiang/dmnameof)                        - 获取变量、类型、函数、宏和枚举的名称
 - [dmexprtk](https://github.com/brinkqiang/dmexprtk)                        - 数学表达式
 - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor)              - 文件夹监控
+- [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode)              - 二维码
+- [dmsnowflake](https://github.com/brinkqiang/dmsnowflake)                  - 唯一ID生成
