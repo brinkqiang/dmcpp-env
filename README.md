@@ -37,3 +37,4 @@
 - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum)                  - 字符串 枚举转换库
 - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace)                  - 获取调用堆栈
 - [dminja](https://github.com/brinkqiang/dminja)                            - 模板引擎库 类似google ctemplate
+- [dmastar](https://github.com/brinkqiang/dmastar)                          - A* 搜索算法
