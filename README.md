@@ -31,7 +31,6 @@
 - [dmleveldb](https://github.com/brinkqiang/dmleveldb)                      - kv数据库
 - [dmcrontask](https://github.com/brinkqiang/dmcrontask)                    - cron表达式任务工具
 - [dmcctz](https://github.com/brinkqiang/dmcctz)                            - 时间处理
+- [dmdatetime](https://github.com/brinkqiang/dmdatetime)                    - 时间处理
 - [dmconsistent](https://github.com/brinkqiang/dmconsistent)                - 一致性hash
-
-
-https://github.com/brinkqiang/dmconsistent
+- [dmdyad](https://github.com/brinkqiang/dmdyad)                            - 极简socket库 用于熟悉socket流程
