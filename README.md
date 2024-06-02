@@ -36,3 +36,4 @@
 - [dmdyad](https://github.com/brinkqiang/dmdyad)                            - 极简socket库 用于熟悉socket流程
 - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum)                  - 字符串 枚举转换库
 - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace)                  - 获取调用堆栈
+- [dminja](https://github.com/brinkqiang/dminja)                            - 模板引擎库 类似google ctemplate
