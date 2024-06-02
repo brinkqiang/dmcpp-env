@@ -30,3 +30,8 @@
 - [dmzipper](https://github.com/brinkqiang/dmzipper)                        - zip压缩
 - [dmleveldb](https://github.com/brinkqiang/dmleveldb)                      - kv数据库
 - [dmcrontask](https://github.com/brinkqiang/dmcrontask)                    - cron表达式任务工具
+- [dmcctz](https://github.com/brinkqiang/dmcctz)                            - 时间处理
+- [dmconsistent](https://github.com/brinkqiang/dmconsistent)                - 一致性hash
+
+
+https://github.com/brinkqiang/dmconsistent
