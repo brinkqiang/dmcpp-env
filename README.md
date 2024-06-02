@@ -27,3 +27,5 @@
 - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor)              - 文件夹监控
 - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode)              - 二维码
 - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake)                  - 唯一ID生成 uint64_t
+- [dmzipper](https://github.com/brinkqiang/dmzipper)                        - zip压缩
+- [dmleveldb](https://github.com/brinkqiang/dmleveldb)                      - kv数据库
