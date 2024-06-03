@@ -15,6 +15,7 @@
 
 3. **数据生成与处理**
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
+   - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
 
@@ -59,7 +60,6 @@
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 搜索算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 寻路
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
-    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
 
