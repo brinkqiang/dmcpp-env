@@ -43,7 +43,19 @@
    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
    - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
-10. **数据结构与算法**
+10. **数据格式**
+    - [dmxml](https://github.com/brinkqiang/dmxml) - xml
+    - [dmjson](https://github.com/brinkqiang/dmjson) - json
+    - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
+    - [dmcsv](https://github.com/brinkqiang/dmcsv) - csv
+    - [dmxlsx](https://github.com/brinkqiang/dmxlsx) - xlsx
+    - [dmyaml](https://github.com/brinkqiang/dmyaml) - yaml
+    - [dmtoml](https://github.com/brinkqiang/dmtoml) - toml
+    - [dmmsgpack](https://github.com/brinkqiang/dmmsgpack) - msgpack
+    - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
+    - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
+
+11. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 搜索算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 寻路
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
@@ -51,21 +63,33 @@
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
 
-11. **唯一标识符生成**
+12. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
-12. **进度与状态**
+13. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
 
-13. **设计模式与架构**
+14. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-14. **高性能工具**
+15. **高性能工具**
     - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
 
-15. **其他**
+16. **数据格式**
+    - [dmxml](https://github.com/brinkqiang/dmxml) - xml
+    - [dmjson](https://github.com/brinkqiang/dmjson) - json
+    - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
+    - [dmcsv](https://github.com/brinkqiang/dmcsv) - csv
+    - [dmxlsx](https://github.com/brinkqiang/dmxlsx) - xlsx
+    - [dmyaml](https://github.com/brinkqiang/dmyaml) - yaml
+    - [dmtoml](https://github.com/brinkqiang/dmtoml) - toml
+    - [dmmsgpack](https://github.com/brinkqiang/dmmsgpack) - msgpack
+    - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
+    - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
+    
+17. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
