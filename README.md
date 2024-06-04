@@ -7,6 +7,7 @@
    - [dmlog](https://github.com/brinkqiang/dmlog) - log
    - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace) - 获取调用堆栈
    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
+   - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
 
 2. **数据处理与数据库**
    - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - sqlite
@@ -84,10 +85,7 @@
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-15. **高性能工具**
-    - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
-
-16. **数据格式**
+15. **数据格式**
     - [dmxml](https://github.com/brinkqiang/dmxml) - xml
     - [dmjson](https://github.com/brinkqiang/dmjson) - json
     - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
@@ -99,7 +97,7 @@
     - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
     
-17. **其他**
+16. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
