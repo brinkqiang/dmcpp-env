@@ -3,11 +3,12 @@
 
 # C++ cmake module项目
 
+如何在项目中引用 cmake 模块
 ```
 LIST(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 INCLUDE(cmake/ModuleImport.cmake)
 
-ModuleImport("test" "")
+ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 
 ```
 
