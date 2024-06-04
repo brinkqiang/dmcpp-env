@@ -98,3 +98,5 @@
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
     - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集
+    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
+    - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
