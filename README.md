@@ -99,21 +99,10 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-15. **数据格式**
-    - [dmxml](https://github.com/brinkqiang/dmxml) - xml
-    - [dmjson](https://github.com/brinkqiang/dmjson) - json
-    - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
-    - [dmcsv](https://github.com/brinkqiang/dmcsv) - csv
-    - [dmxlsx](https://github.com/brinkqiang/dmxlsx) - xlsx
-    - [dmyaml](https://github.com/brinkqiang/dmyaml) - yaml
-    - [dmtoml](https://github.com/brinkqiang/dmtoml) - toml
-    - [dmmsgpack](https://github.com/brinkqiang/dmmsgpack) - msgpack
-    - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
-    - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
-    
-16. **其他**
+15. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
+    - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI
