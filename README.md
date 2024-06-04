@@ -100,3 +100,6 @@
     - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集
     - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
     - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
+    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
+    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎
+    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
