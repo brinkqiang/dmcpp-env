@@ -29,7 +29,8 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
 
-3. **数据生成与处理**
+3. **数据生成与处理**、
+   - [dmformat](https://github.com/brinkqiang/dmformat) - fmtlib
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
    - [dmcronpp](https://github.com/brinkqiang/dmcronpp) - cron表达式- 
