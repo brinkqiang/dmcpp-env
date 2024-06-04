@@ -42,6 +42,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 4. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端
+   - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
 
 5. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
