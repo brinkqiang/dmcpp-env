@@ -3,6 +3,15 @@
 
 # C++ cmake module项目
 
+```
+LIST(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
+INCLUDE(cmake/ModuleImport.cmake)
+
+ModuleImport("test" "")
+
+```
+
+
 1. **日志和调试**
    - [dmlog](https://github.com/brinkqiang/dmlog) - log
    - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace) - 获取调用堆栈
