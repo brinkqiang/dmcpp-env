@@ -4,6 +4,10 @@
 # C++ cmake module项目
 
 如何在项目中引用 cmake 模块
+```cmd
+git submodule add -f https://github.com/brinkqiang/dmbreakpad ./thirdparty/dmbreakpad
+```
+
 ```
 INCLUDE(cmake/ModuleImport.cmake)
 
