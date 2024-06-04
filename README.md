@@ -3,7 +3,7 @@
 
 # C++ cmake module项目
 
-如何在项目中引用 cmake 模块
+如何在项目中引用已经 cmake 模块的项目
 ```cmd
 git submodule add -f https://github.com/brinkqiang/dmbreakpad ./thirdparty/dmbreakpad
 ```
