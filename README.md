@@ -12,6 +12,7 @@
    - [dmleveldb](https://github.com/brinkqiang/dmleveldb) - kv数据库
    - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
+   - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
 
 3. **数据生成与处理**
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
@@ -93,3 +94,7 @@
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
+    - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
+    - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
+    - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
+    - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集
