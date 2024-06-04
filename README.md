@@ -19,6 +19,7 @@
 3. **数据生成与处理**
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
+   - [dmcronpp](https://github.com/brinkqiang/dmcronpp) - cron表达式- 
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
@@ -101,3 +102,4 @@
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
+
