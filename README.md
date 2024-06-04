@@ -102,4 +102,4 @@
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
-    - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - go模拟
+    - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
