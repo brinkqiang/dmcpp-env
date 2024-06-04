@@ -51,8 +51,8 @@
    - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
 
 9.  **模板与表达式**
-   - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
-   - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
+    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
+    - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
 10. **数据格式**
     - [dmxml](https://github.com/brinkqiang/dmxml) - xml
