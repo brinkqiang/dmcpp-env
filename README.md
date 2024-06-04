@@ -6,6 +6,7 @@
 1. **日志和调试**
    - [dmlog](https://github.com/brinkqiang/dmlog) - log
    - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace) - 获取调用堆栈
+   - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
 
 2. **数据处理与数据库**
    - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - sqlite
@@ -19,12 +20,16 @@
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
+   - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
+   - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎
 
 4. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端
 
 5. **任务与流程管理**
+   - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
+   - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - cron表达式任务工具
@@ -39,9 +44,13 @@
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
 
 8. **测试与模拟**
+   - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集 
+   - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
+   - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
+   - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架   
    - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
 
-9. **模板与表达式**
+9.  **模板与表达式**
    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
    - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
@@ -94,12 +103,3 @@
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
-    - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
-    - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
-    - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
-    - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集
-    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
-    - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
-    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
-    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎
-    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
