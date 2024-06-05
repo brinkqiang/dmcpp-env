@@ -39,39 +39,43 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎
 
-4. **网络与通信**
+4. **内存池与对象管理**
+   - [dmmimalloc](https://github.com/brinkqiang/dmgperftools) - google tcmalloc及相关工具链
+   - [dmmimalloc](https://github.com/brinkqiang/dmmimalloc) - 微软 mimalloc
+   - [dmrapidpool](https://github.com/brinkqiang/dmrapidpool) - 对象池
+
+5. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
 
-5. **任务与流程管理**
+6. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
    - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - cron表达式任务工具
 
-6. **时间与日期**
+7. **时间与日期**
    - [dmcctz](https://github.com/brinkqiang/dmcctz) - 时间处理
    - [dmdatetime](https://github.com/brinkqiang/dmdatetime) - 时间处理
 
-7. **系统与工具库**
+8. **系统与工具库**
    - [dminfoware](https://github.com/brinkqiang/dminfoware) - 获取系统信息
    - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
 
-8. **测试与模拟**
-   - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - 性能内存池工具集 
+9.  **测试与模拟**
    - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
    - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
    - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架   
    - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
 
-9.  **模板与表达式**
+10. **模板与表达式**
     - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
     - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
-10. **数据格式**
+11. **数据格式**
     - [dmxml](https://github.com/brinkqiang/dmxml) - xml
     - [dmjson](https://github.com/brinkqiang/dmjson) - json
     - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
@@ -83,25 +87,25 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
 
-11. **数据结构与算法**
+12. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 搜索算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 寻路
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
 
-12. **唯一标识符生成**
+13. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
-13. **进度与状态**
+14. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
 
-14. **设计模式与架构**
+15. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-15. **其他**
+16. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
