@@ -88,8 +88,8 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
 
 12. **数据结构与算法**
-    - [dmastar](https://github.com/brinkqiang/dmastar) - A* 搜索算法
-    - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 寻路
+    - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
+    - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
