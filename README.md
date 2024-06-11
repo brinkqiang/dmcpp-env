@@ -68,7 +68,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 9.  **测试与模拟**
    - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
    - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
-   - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架   
+   - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
    - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
 
 10. **模板与表达式**
