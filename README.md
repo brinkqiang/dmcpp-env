@@ -72,7 +72,8 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
 
 10. **模板与表达式**
-    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库 类似google ctemplate
+    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
+    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库
     - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
 11. **数据格式**
