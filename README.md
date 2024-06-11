@@ -22,10 +22,10 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
    - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
 
-2. **数据处理与数据库**
+2. **数据存储**
    - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - sqlite
    - [dmleveldb](https://github.com/brinkqiang/dmleveldb) - kv数据库
-   - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
+
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
 
@@ -52,6 +52,9 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
+   - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
+   - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl
+   - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
 
 7. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
@@ -92,7 +95,8 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmskiplist](https://github.com/brinkqiang/dmskiplist) - skiplist
-    - 
+    - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
+
 13. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
