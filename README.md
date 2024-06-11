@@ -96,6 +96,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmskiplist](https://github.com/brinkqiang/dmskiplist) - skiplist
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
+    - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
 
 13. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
