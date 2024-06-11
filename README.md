@@ -34,47 +34,45 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
    - [dmcronpp](https://github.com/brinkqiang/dmcronpp) - cron表达式- 
+   - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
-   - [dmtemplate](https://github.com/brinkqiang/dmtemplate) - 模板引擎
-   - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎
+  
+4.  **模板引擎**
+    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
+    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库
 
-4. **内存池与对象管理**
+5. **内存池与对象管理**
    - [dmmimalloc](https://github.com/brinkqiang/dmgperftools) - google tcmalloc及相关工具链
    - [dmmimalloc](https://github.com/brinkqiang/dmmimalloc) - 微软 mimalloc
    - [dmrapidpool](https://github.com/brinkqiang/dmrapidpool) - 对象池
 
-5. **网络与通信**
+6. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
 
-6. **任务与流程管理**
+7. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
    - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - cron表达式任务工具
 
-7. **时间与日期**
+8. **时间与日期**
    - [dmcctz](https://github.com/brinkqiang/dmcctz) - 时间处理
    - [dmdatetime](https://github.com/brinkqiang/dmdatetime) - 时间处理
 
-8. **系统与工具库**
+9. **系统与工具库**
    - [dminfoware](https://github.com/brinkqiang/dminfoware) - 获取系统信息
    - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
 
-9.  **测试与模拟**
+10. **测试与模拟**
     - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
     - [dmfakeit](https://github.com/brinkqiang/dmfakeit) - 模拟测试框架
-
-10. **模板与表达式**
-    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
-    - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库
-    - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
 
 11. **数据格式**
     - [dmxml](https://github.com/brinkqiang/dmxml) - xml
