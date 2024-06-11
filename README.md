@@ -105,7 +105,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 14. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
-    - 
+
 15. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
