@@ -89,6 +89,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmmsgpack](https://github.com/brinkqiang/dmmsgpack) - msgpack
     - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
+    - [dmrapidjson](https://github.com/brinkqiang/dmrapidjson) - dmrapidjson
 
 12. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
