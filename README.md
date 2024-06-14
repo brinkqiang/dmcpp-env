@@ -94,6 +94,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 12. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
+    - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmskiplist](https://github.com/brinkqiang/dmskiplist) - skiplist
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
@@ -117,4 +118,3 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
-    - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI
