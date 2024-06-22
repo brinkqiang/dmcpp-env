@@ -44,7 +44,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库
 
 5. **内存池与对象管理**
-   - [dmmimalloc](https://github.com/brinkqiang/dmgperftools) - google tcmalloc及相关工具链
+   - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - google tcmalloc及相关工具链
    - [dmmimalloc](https://github.com/brinkqiang/dmmimalloc) - 微软 mimalloc
    - [dmrapidpool](https://github.com/brinkqiang/dmrapidpool) - 对象池
 
