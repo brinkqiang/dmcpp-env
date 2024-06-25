@@ -56,6 +56,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
+   - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现 lua模块 ftpserver
 
 7. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
