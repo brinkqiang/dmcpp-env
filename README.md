@@ -126,3 +126,6 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
     - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
     - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
+    - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
+
+https://github.com/brinkqiang/dmclang-pass
