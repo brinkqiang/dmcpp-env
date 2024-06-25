@@ -55,6 +55,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
+   - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
 
 7. **任务与流程管理**
    - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
@@ -119,3 +120,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
     - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码探测及自动化转换
+    - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
