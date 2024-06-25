@@ -127,7 +127,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
 17. **开发环境搭建**
-    - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
+    - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
 
