@@ -95,8 +95,12 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
     - [dmrapidjson](https://github.com/brinkqiang/dmrapidjson) - rapidjson
     - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
-    - 
-12. **数据结构与算法**
+
+12. **开发语言**
+    - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
+    - [dmsolpp](https://github.com/brinkqiang/dmpybind11) - sol2 bind in lua
+
+13. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
@@ -105,19 +109,19 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
 
-13. **唯一标识符生成**
+14. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
-14. **进度与状态**
+15. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
 
-15. **设计模式与架构**
+16. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-16. **其他**
+17. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
@@ -129,7 +133,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
     - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
-    - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
+
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
