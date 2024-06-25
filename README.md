@@ -118,3 +118,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
+    - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码探测及自动化转换
