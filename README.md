@@ -123,3 +123,5 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
+    - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
+    - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
