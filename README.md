@@ -101,6 +101,9 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 12. **跨语言开发**
     - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
     - [dmsolpp](https://github.com/brinkqiang/dmpybind11) - sol2 bind in lua
+    - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
+    - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
+    - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
 
 13. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
@@ -138,10 +141,5 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
-    - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
-    - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
-
-    - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
-
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
     - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 时间任务库
