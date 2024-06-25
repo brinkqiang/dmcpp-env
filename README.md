@@ -121,3 +121,5 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
     - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码探测及自动化转换
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
+    - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
+
