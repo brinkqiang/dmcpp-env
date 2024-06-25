@@ -122,4 +122,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码探测及自动化转换
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
-
+    - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
