@@ -121,7 +121,12 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
 
-17. **其他**
+17. **开发环境搭建**
+    - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
+    - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
+    - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
+
+18. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
@@ -136,6 +141,6 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
 
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm
-    - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
+
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
     - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 时间任务库
