@@ -91,7 +91,8 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
     - [dmrapidjson](https://github.com/brinkqiang/dmrapidjson) - rapidjson
-
+    - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
+    - 
 12. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
@@ -129,5 +130,5 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
-    - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
+
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
