@@ -130,3 +130,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
     - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
+    - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
