@@ -72,6 +72,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dminfoware](https://github.com/brinkqiang/dminfoware) - 获取系统信息
    - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
+   - [dmsnappy](https://github.com/brinkqiang/dmsnappy) - 压缩库
 
 10. **测试与模拟**
     - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
@@ -130,5 +131,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建
-
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
+
+
+dmsnappy
