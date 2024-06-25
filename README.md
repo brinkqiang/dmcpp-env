@@ -125,3 +125,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
     - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
+    - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
