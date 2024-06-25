@@ -86,6 +86,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmjson](https://github.com/brinkqiang/dmjson) - json
     - [dminicpp](https://github.com/brinkqiang/dminicpp) - ini
     - [dmcsv](https://github.com/brinkqiang/dmcsv) - csv
+    - [dmrapidcsv](https://github.com/brinkqiang/dmrapidcsv) - csv
     - [dmxlsx](https://github.com/brinkqiang/dmxlsx) - xlsx
     - [dmyaml](https://github.com/brinkqiang/dmyaml) - yaml
     - [dmtoml](https://github.com/brinkqiang/dmtoml) - toml
