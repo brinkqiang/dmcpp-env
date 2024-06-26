@@ -65,7 +65,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
-   - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - cron表达式任务工具
+   - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 cron表达式 任务工具
 
 8. **时间与日期**
    - [dmcctz](https://github.com/brinkqiang/dmcctz) - 时间处理
@@ -143,4 +143,4 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
-    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 时间任务库
+
