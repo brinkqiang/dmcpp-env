@@ -55,6 +55,7 @@ ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl and curlpp
+   - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
    - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现 lua模块 ftpserver
