@@ -5,13 +5,13 @@
 
 如何在项目中引用已经 cmake 模块化的项目
 ```cmd
-git submodule add -f https://github.com/brinkqiang/dmbreakpad ./thirdparty/dmbreakpad
+git submodule add -f https://github.com/brinkqiang/dmcrontask ./thirdparty/dmcrontask
 ```
 
 ```
 INCLUDE(cmake/ModuleImport.cmake)
 
-ModuleImport("dmbreakpad" "thirdparty/dmbreakpad")
+ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
 ```
 
