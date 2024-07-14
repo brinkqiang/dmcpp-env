@@ -18,3 +18,4 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 1. **日志和调试**
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 cron表达式 任务工具
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
+   - [dmcpr](https://github.com/brinkqiang/dmcpr) - curl封装 httpserver httpclient
