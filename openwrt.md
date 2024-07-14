@@ -19,3 +19,4 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 cron表达式 任务工具
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - curl封装 httpserver httpclient
+   - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl封装 curlpp
