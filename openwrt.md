@@ -20,3 +20,4 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - curl封装 httpserver httpclient
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl封装 curlpp
+   - [dmlua](https://github.com/brinkqiang/dmlua) - C++ lua 自动化组件
