@@ -61,7 +61,8 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
-   - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现 lua模块 ftpserver
+   - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现 lua模块 ftpserver 服务器
+   - [luaftp](https://github.com/brinkqiang/luaftp) - C++实现 lua模块 luaftp 客户端
 
 7. **任务与流程管理**
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
