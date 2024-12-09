@@ -80,6 +80,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
    - [dmsnappy](https://github.com/brinkqiang/dmsnappy) - 压缩库
+   - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
 
 10. **测试与模拟**
     - [dmbreakpad](https://github.com/brinkqiang/dmbreakpad) - 跨平台crash
