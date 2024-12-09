@@ -39,6 +39,9 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
    - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
+   - [dmmatchitcpp](https://github.com/brinkqiang/dmmatchitcpp) - match表达式
+   - [dmmathiucpp](https://github.com/brinkqiang/dmmathiucpp) - 数学表达式 基于dmmatchitcpp
+  
 
 4.  **模板引擎**
     - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
