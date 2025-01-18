@@ -138,6 +138,12 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
 
+18. **网络库**
+    - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
+    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
+    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq
+
+
 18. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
