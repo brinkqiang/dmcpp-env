@@ -142,9 +142,10 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
     - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
     - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq
+    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
 
 
-18. **其他**
+19. **其他**
 
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
