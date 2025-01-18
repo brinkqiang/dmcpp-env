@@ -143,7 +143,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
     - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq
     - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
-
+    - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
 
 19. **其他**
 
