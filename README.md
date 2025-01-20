@@ -1,7 +1,29 @@
 # dmcpp-env
 
+C++ CMake 模块化项目环境
 
-# C++ cmake 模块化项目
+## 项目简介
+这是一个用于管理C++项目依赖的模块化环境，基于CMake构建系统。它提供了大量常用库和工具的集成，方便快速搭建C++开发环境。
+
+## 快速开始
+
+### 环境要求
+- CMake 3.14+
+- C++17 编译器
+- Git
+
+### 安装依赖
+```cmd
+git submodule update --init --recursive
+```
+
+### 构建项目
+```cmake
+mkdir build
+cd build
+cmake ..
+make
+```
 
 如何在项目中引用已经 cmake 模块化的项目
 ```cmd
@@ -22,19 +44,21 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
    - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
 
-2. **数据存储**
-   - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - sqlite
+## 模块列表
+
+### 数据存储
+   - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - SQLite数据库封装
    - [dmleveldb](https://github.com/brinkqiang/dmleveldb) - kv数据库
    - [dmorm](https://github.com/brinkqiang/dmorm) - mysql orm 简单
    - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm 复杂
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
 
-3. **数据生成与处理**、
+### 数据生成与处理
    - [dmformat](https://github.com/brinkqiang/dmformat) - fmtlib
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
-   - [dmcronpp](https://github.com/brinkqiang/dmcronpp) - cron表达式- 
+   - [dmcronpp](https://github.com/brinkqiang/dmcronpp) - cron表达式解析
    - [dmcpplinq](https://github.com/brinkqiang/dmcpplinq) - linq 表达式
    - [dmmagicenum](https://github.com/brinkqiang/dmmagicenum) - 字符串 枚举转换库
    - [dmnameof](https://github.com/brinkqiang/dmnameof) - 获取变量、类型、函数、宏和枚举的名称
@@ -61,8 +85,8 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
-   - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现 lua模块 ftpserver 服务器
-   - [luaftp](https://github.com/brinkqiang/luaftp) - C++实现 lua模块 luaftp 客户端
+    - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现的Lua模块 FTP服务器
+    - [luaftp](https://github.com/brinkqiang/luaftp) - C++实现的Lua模块 FTP客户端
 
 7. **任务与流程管理**
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
@@ -147,7 +171,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
 19. **其他**
 
-    - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元
+    - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元编程
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
@@ -156,4 +180,3 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
-
