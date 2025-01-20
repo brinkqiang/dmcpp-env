@@ -106,7 +106,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
 12. **跨语言开发**
     - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
-    - [dmsolpp](https://github.com/brinkqiang/dmpybind11) - sol2 bind in lua
+    - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - sol2 bind in lua
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
     - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
