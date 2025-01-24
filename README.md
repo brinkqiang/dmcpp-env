@@ -104,7 +104,8 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
    - [dmsnappy](https://github.com/brinkqiang/dmsnappy) - 压缩库
    - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
-
+   - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
+  
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
