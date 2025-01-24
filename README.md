@@ -73,7 +73,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 5. **内存池与对象管理**
    - [dmgperftools](https://github.com/brinkqiang/dmgperftools) - google tcmalloc及相关工具链
    - [dmmimalloc](https://github.com/brinkqiang/dmmimalloc) - 微软 mimalloc
-   - [dmrapidpool](https://github.com/brinkqiang/dmrapidpool) - 对象池
+   - [dmrapidpool](https://github.com/brinkqiang/dmrapidpool) - 对象池, 来源于loki
 
 6. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
