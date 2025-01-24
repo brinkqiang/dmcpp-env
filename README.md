@@ -39,7 +39,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
 ## 1.3. 模块列表
 
 1. **日志和调试**
-   - [dmlog](https://github.com/brinkqiang/dmlog) - log
+   - [dmlog](https://github.com/brinkqiang/dmlog) - 基于spdlog的日志库
    - [dmbacktrace](https://github.com/brinkqiang/dmbacktrace) - 获取调用堆栈
    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
    - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
