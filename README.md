@@ -179,3 +179,4 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
+    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - dll注入, 内存load EXE等.
