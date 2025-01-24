@@ -133,6 +133,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
     - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
+    - [dmswig](https://github.com/brinkqiang/dmswig) - swig
 
 13. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
