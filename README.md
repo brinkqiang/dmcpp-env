@@ -51,6 +51,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm 复杂
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
+   - [dmotl](https://github.com/brinkqiang/dmotl) - otl是一个C++数据库操作库，用于访问各种类型的数据库
 
 3. **数据生成与处理**
    - [dmformat](https://github.com/brinkqiang/dmformat) - fmtlib
