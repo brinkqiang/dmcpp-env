@@ -154,7 +154,8 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
     - [dmentitascpp](https://github.com/brinkqiang/dmentitascpp) - 实体组件系统
-
+    - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
+  
 17. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
