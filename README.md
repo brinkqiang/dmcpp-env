@@ -1,23 +1,23 @@
-# dmcpp-env
+# 1. dmcpp-env
 
 C++ CMake 模块化项目环境
 
-## 项目简介
+## 1.1. 项目简介
 这是一个用于管理C++项目依赖的模块化环境，基于CMake构建系统。它提供了大量常用库和工具的集成，方便快速搭建C++开发环境。
 
-## 快速开始
+## 1.2. 快速开始
 
-### 环境要求
+### 1.2.1. 环境要求
 - CMake 3.14+
 - C++17 编译器
 - Git
 
-### 安装依赖
+### 1.2.2. 安装依赖
 ```cmd
 git submodule update --init --recursive
 ```
 
-### 构建项目
+### 1.2.3. 构建项目
 ```cmake
 mkdir build
 cd build
@@ -36,7 +36,7 @@ INCLUDE(cmake/ModuleImport.cmake)
 ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
 ```
-
+## 1.3. 模块列表
 
 1. **日志和调试**
    - [dmlog](https://github.com/brinkqiang/dmlog) - log
@@ -44,9 +44,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmdump](https://github.com/brinkqiang/dmdump) - dump抓取
    - [dmwrk](https://github.com/brinkqiang/dmwrk) - http压测工具
 
-## 模块列表
-
-### 数据存储
+2. **数据存储**
    - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - SQLite数据库封装
    - [dmleveldb](https://github.com/brinkqiang/dmleveldb) - kv数据库
    - [dmorm](https://github.com/brinkqiang/dmorm) - mysql orm 简单
@@ -54,7 +52,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
 
-### 数据生成与处理
+3. **数据生成与处理**
    - [dmformat](https://github.com/brinkqiang/dmformat) - fmtlib
    - [dmexprtk](https://github.com/brinkqiang/dmexprtk) - 数学表达式
    - [dmstrtk](https://github.com/brinkqiang/dmstrtk) - 字符串操作
@@ -100,7 +98,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmcctz](https://github.com/brinkqiang/dmcctz) - 时间处理
    - [dmdatetime](https://github.com/brinkqiang/dmdatetime) - 时间处理
 
-9.  **系统与工具库**
+9. **系统与工具库**
    - [dminfoware](https://github.com/brinkqiang/dminfoware) - 获取系统信息
    - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
@@ -170,7 +168,6 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
 
 19. **其他**
-
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元编程
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
