@@ -63,7 +63,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmscn](https://github.com/brinkqiang/dmscn) - C++ scanf 
    - [dmmatchitcpp](https://github.com/brinkqiang/dmmatchitcpp) - match表达式
    - [dmmathiucpp](https://github.com/brinkqiang/dmmathiucpp) - 数学表达式 基于dmmatchitcpp
-  
+   - [dmlexy](https://github.com/brinkqiang/dmlexy) - 词法分析器
 
 4.  **模板引擎**
     - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
