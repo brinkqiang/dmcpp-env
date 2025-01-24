@@ -180,7 +180,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [luaopenai](https://github.com/brinkqiang/luaopenai) - 基于dmopenaicpp 的lua 模块
-    - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
+    - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具 支持https git协议互相转换, 在git仓库中执行即可
     - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
     - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
 
