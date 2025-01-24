@@ -77,7 +77,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
 6. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
-   - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端 可任意ID发送邮件
+   - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端 可任意ID发送邮件(gmail有检测, 不行, 163 qq可以)
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
