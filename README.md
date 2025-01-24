@@ -181,3 +181,4 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [luaopenai](https://github.com/brinkqiang/luaopenai) - 基于dmopenaicpp 的lua 模块
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具
     - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
+    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
