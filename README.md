@@ -79,11 +79,8 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
    - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端 可任意ID发送邮件(gmail有检测, 不行, 163 qq可以)
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
-   - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
-   - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl and curlpp
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
-   - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tars
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
    - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现的Lua模块 FTP服务器
    - [luaftp](https://github.com/brinkqiang/luaftp) - C++实现的Lua模块 FTP客户端
@@ -127,6 +124,7 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
     - [dmrapidjson](https://github.com/brinkqiang/dmrapidjson) - rapidjson
     - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
+    - [dmmsgparser](https://github.com/brinkqiang/dmmsgparser) - 协议中间件
 
 12. **跨语言开发**
     - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
@@ -166,8 +164,8 @@ ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 18. **网络库**
     - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
     - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
-    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq
-    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq
+    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
+    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
     - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
 
 19. **其他**
