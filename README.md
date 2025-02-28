@@ -186,7 +186,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
 
 20. **all-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
-    - [dmgen4cpp](https://github.com/brinkqiang/dmgen4cpp) - C++ bind lua 生成器 **(需改名)**
+    - [dmgen4cpp](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
 
     - [dmpybindpp](https://github.com/brinkqiang/dmpybindpp) - C++ bind python 代码框架
     - [dmgen4pybind](https://github.com/brinkqiang/dmgen4pybind) - C++ bind python 生成器
