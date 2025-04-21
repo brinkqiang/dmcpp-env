@@ -105,7 +105,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmsnappy](https://github.com/brinkqiang/dmsnappy) - 压缩库
    - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
    - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
-  
+   - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
@@ -181,7 +181,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
     - [luaopenai](https://github.com/brinkqiang/luaopenai) - 基于dmopenaicpp 的lua 模块
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具 支持https git协议互相转换, 在git仓库中执行即可
-    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
+
     - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
 
 20. **dmcpp-port 伟大航路**
