@@ -192,6 +192,12 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmgen4pybind](https://github.com/brinkqiang/dmgen4pybind) - C++ bind python 生成器
 
     - [dmgen4node](https://github.com/brinkqiang/dmgen4node) - C++ bind nodejs 生成器
+    - [dmgen4wasm](https://github.com/brinkqiang/dmgen4wasm) - C++ bind wasm 生成器
 
     - [dmcsharp-dmprojectinfo](https://github.com/brinkqiang/dmcsharp-dmprojectinfo) - C++ bind C# 流程例子
     - [dmgodemo](https://github.com/brinkqiang/dmgodemo) - C++ bind go swig 例子
+    - [dmgen4cmake](https://github.com/brinkqiang/dmgen4cmake) - C++ cmake生成框架 可以自动化识别目录结构 生成对应的cmakelist相关文件
+
+    - [dmgen4pymodule](https://github.com/brinkqiang/dmgen4pymodule) - C++ python模块生成器， 会直接生成对应的python模块框架
+    - [dmgen4luamodule](https://github.com/brinkqiang/dmgen4luamodule) - C++ lua模块生成器， 会直接生成对应的lua模块框架
+
