@@ -183,6 +183,9 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [luaopenai](https://github.com/brinkqiang/luaopenai) - 基于dmopenaicpp 的lua 模块
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具 支持https git协议互相转换, 在git仓库中执行即可
     - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
+    - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - llamacpp
+    - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - whispercpp
+    - [dmop](https://github.com/brinkqiang/dmop) - libop 类似 按键精灵
 
 20. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
