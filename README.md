@@ -185,7 +185,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - llamacpp
     - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - whispercpp
-    - [dmop](https://github.com/brinkqiang/dmop) - libop 类似 按键精灵
+    - [dmop](https://github.com/brinkqiang/dmop) - libop 按键鼠标模拟
 
 20. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
