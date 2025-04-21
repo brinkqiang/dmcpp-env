@@ -126,6 +126,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmrapidjson](https://github.com/brinkqiang/dmrapidjson) - rapidjson
     - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
     - [dmmsgparser](https://github.com/brinkqiang/dmmsgparser) - 协议中间件
+    - [dmmarkdown](https://github.com/brinkqiang/dmmarkdown) - markdown转html
 
 12. **跨语言开发**
     - [dmpybind11](https://github.com/brinkqiang/dmpybind11) - pybind11
