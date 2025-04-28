@@ -157,6 +157,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
     - [dmentitascpp](https://github.com/brinkqiang/dmentitascpp) - 实体组件系统
+    - [dmentt](https://github.com/brinkqiang/dmentt) - 实体组件系统
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
   
 17. **开发环境搭建**
