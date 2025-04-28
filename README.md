@@ -106,6 +106,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
    - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
+   - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake 辅助工具, 扫描当前工程结构 自动生成cmakelist
    - [gitac](https://github.com/brinkqiang/gitac) - 自动化生成标准Git提交说明的中英双语助手，基于代码变更分析。
   
      
