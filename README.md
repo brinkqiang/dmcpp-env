@@ -198,7 +198,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
     - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
-
+    - [gitac](https://github.com/brinkqiang/gitac) - GitAutoCommit工具
 21. **AI与机器学习**
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
