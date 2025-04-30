@@ -107,7 +107,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
    - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
-
+   - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
 
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
@@ -139,7 +139,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmswig](https://github.com/brinkqiang/dmswig) - swig
 
-12. **lua模块**
+13. **lua模块**
     - [luatimer](https://github.com/brinkqiang/luatimer) - luatimer
     - [luapb](https://github.com/brinkqiang/luapb) - luapb
     - [luacrypto](https://github.com/brinkqiang/luacrypto) - luacrypto
@@ -154,11 +154,11 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [luaredis](https://github.com/brinkqiang/luaredis ) - luaredis
     - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - luaprofiler
 
-13. **python模块**
+14. **python模块**
     - [pytimer](https://github.com/brinkqiang/pytimer) - pytimer
     - [pycrypto](https://github.com/brinkqiang/luacrypto) - pycrypto
 
-14. **数据结构与算法**
+15. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
@@ -167,34 +167,34 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
 
-15. **唯一标识符生成**
+16. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
-16. **进度与状态**
+17. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
 
-17. **设计模式与架构**
+18. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
     - [dmentitascpp](https://github.com/brinkqiang/dmentitascpp) - 实体组件系统
     - [dmentt](https://github.com/brinkqiang/dmentt) - 实体组件系统
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
   
-18. **开发环境搭建**
+19. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
 
-19. **网络库**
+20. **网络库**
     - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
     - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
     - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
     - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
     - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
 
-20. **其他**
+21. **其他**
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元编程
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
@@ -203,14 +203,13 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
-    - [luaopenai](https://github.com/brinkqiang/luaopenai) - 基于dmopenaicpp 的lua 模块
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具 支持https git协议互相转换, 在git仓库中执行即可
     - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - llamacpp
     - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - whispercpp
     - [dmop](https://github.com/brinkqiang/dmop) - libop 按键鼠标模拟
 
-21. **dmcpp-port 伟大航路**
+22. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
     - [dmgen4sol](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
 
