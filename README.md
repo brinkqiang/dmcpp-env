@@ -110,6 +110,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
    - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
    - [dmop](https://github.com/brinkqiang/dmop) - 输入设备模拟库
+   - [dmvfspp](https://github.com/brinkqiang/dmvfspp) - 虚拟文件系统
   
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
