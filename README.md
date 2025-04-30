@@ -139,7 +139,26 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmswig](https://github.com/brinkqiang/dmswig) - swig
 
-13. **数据结构与算法**
+12. **lua模块**
+    - [luatimer](https://github.com/brinkqiang/luatimer) - luatimer
+    - [luapb](https://github.com/brinkqiang/luapb) - luapb
+    - [luacrypto](https://github.com/brinkqiang/luacrypto) - luacrypto
+    - [luaopenai](https://github.com/brinkqiang/luaopenai) - luaopenai
+    - [luaftpserver ](https://github.com/brinkqiang/luaftpserver ) - luaftpserver 
+    - [luaftp ](https://github.com/brinkqiang/luaftp ) - luaftp client 
+    - [luasqlite3 ](https://github.com/brinkqiang/luasqlite3 ) - luasqlite3
+    - [luaiconv](https://github.com/brinkqiang/luaiconv ) - luaiconv
+    - [luafmt](https://github.com/brinkqiang/luafmt ) - luafmt
+    - [luamail](https://github.com/brinkqiang/luamail ) - luamail
+    - [luamysql](https://github.com/brinkqiang/luamysql ) - luamysql
+    - [luaredis](https://github.com/brinkqiang/luaredis ) - luaredis
+    - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - luaprofiler
+
+13. **python模块**
+    - [pytimer](https://github.com/brinkqiang/pytimer) - pytimer
+    - [pycrypto](https://github.com/brinkqiang/luacrypto) - pycrypto
+
+14. **数据结构与算法**
     - [dmastar](https://github.com/brinkqiang/dmastar) - A* 算法
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
@@ -148,34 +167,34 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
 
-14. **唯一标识符生成**
+15. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
-15. **进度与状态**
+16. **进度与状态**
     - [dmindicators](https://github.com/brinkqiang/dmindicators) - 进度条
     - [dmtabulate](https://github.com/brinkqiang/dmtabulate) - 表格制作
 
-16. **设计模式与架构**
+17. **设计模式与架构**
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
     - [dmentitascpp](https://github.com/brinkqiang/dmentitascpp) - 实体组件系统
     - [dmentt](https://github.com/brinkqiang/dmentt) - 实体组件系统
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
   
-17. **开发环境搭建**
+18. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
 
-18. **网络库**
+19. **网络库**
     - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
     - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
     - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
     - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
     - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
 
-19. **其他**
+20. **其他**
     - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元编程
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
@@ -191,7 +210,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - whispercpp
     - [dmop](https://github.com/brinkqiang/dmop) - libop 按键鼠标模拟
 
-20. **dmcpp-port 伟大航路**
+21. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
     - [dmgen4sol](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
 
