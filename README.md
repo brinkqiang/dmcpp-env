@@ -83,8 +83,8 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl and curlpp
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
-   - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - C++实现的Lua模块 FTP服务器
-   - [luaftp](https://github.com/brinkqiang/luaftp) - C++实现的Lua模块 FTP客户端
+   - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
+   - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
 
 7. **任务与流程管理**
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
@@ -107,8 +107,8 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
    - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
-   - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
-
+   - [dmop](https://github.com/brinkqiang/dmop) - 输入设备模拟库
+  
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
@@ -140,20 +140,20 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmswig](https://github.com/brinkqiang/dmswig) - swig
 
 13. **lua模块**
-    - [luatimer](https://github.com/brinkqiang/luatimer) - luatimer
-    - [luapb](https://github.com/brinkqiang/luapb) - luapb
-    - [luacrypto](https://github.com/brinkqiang/luacrypto) - luacrypto
-    - [luaopenai](https://github.com/brinkqiang/luaopenai) - luaopenai
-    - [luaftpserver ](https://github.com/brinkqiang/luaftpserver ) - luaftpserver 
-    - [luaftp ](https://github.com/brinkqiang/luaftp ) - luaftp client 
-    - [luasqlite3 ](https://github.com/brinkqiang/luasqlite3 ) - luasqlite3
-    - [luaiconv](https://github.com/brinkqiang/luaiconv ) - luaiconv
-    - [luafmt](https://github.com/brinkqiang/luafmt ) - luafmt
-    - [luamail](https://github.com/brinkqiang/luamail ) - luamail
-    - [luamysql](https://github.com/brinkqiang/luamysql ) - luamysql
-    - [luaredis](https://github.com/brinkqiang/luaredis ) - luaredis
-    - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - luaprofiler
-
+    - [luatimer](https://github.com/brinkqiang/luatimer) - 定时器模块
+    - [luapb](https://github.com/brinkqiang/luapb) - Protocol Buffers支持
+    - [luacrypto](https://github.com/brinkqiang/luacrypto) - 加密算法模块
+    - [luaopenai](https://github.com/brinkqiang/luaopenai) - OpenAI API绑定
+    - [luasqlite3 ](https://github.com/brinkqiang/luasqlite3 ) - SQLite数据库绑定
+    - [luaiconv](https://github.com/brinkqiang/luaiconv ) - 编码转换模块
+    - [luafmt](https://github.com/brinkqiang/luafmt ) - 字符串格式化
+    - [luamail](https://github.com/brinkqiang/luamail ) - 邮件发送模块
+    - [luamysql](https://github.com/brinkqiang/luamysql ) - MySQL数据库绑定
+    - [luaredis](https://github.com/brinkqiang/luaredis ) - Redis客户端绑定 
+    - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - 性能分析工具
+    - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - FTP服务器(Lua模块)
+    - [luaftp](https://github.com/brinkqiang/luaftp) - FTP客户端(Lua模块)
+  
 14. **python模块**
     - [pytimer](https://github.com/brinkqiang/pytimer) - pytimer
     - [pycrypto](https://github.com/brinkqiang/luacrypto) - pycrypto
@@ -187,29 +187,29 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
 
-20. **网络库**
-    - [dmuv](https://github.com/brinkqiang/dmuv) - libuv
-    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp
-    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
-    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
-    - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc
-
-21. **其他**
-    - [dmfake](https://github.com/brinkqiang/dmfake) - C++20 有状态模板元编程
-    - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码
-    - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - libgo
-    - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - asmjit
-    - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码探测及自动化转换
+20. **工具与集成**
+    - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码生成
+    - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码转换工具
     - [dmchsrc](https://github.com/brinkqiang/dmchsrc) - 命令行换源工具
-    - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
-    - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - C++ openai sdk
-    - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - git协议转换工具 支持https git协议互相转换, 在git仓库中执行即可
-    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 获取目录下所有源码文件信息, 为dmgen4cmake提供支持
-    - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - llamacpp
-    - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - whispercpp
-    - [dmop](https://github.com/brinkqiang/dmop) - libop 按键鼠标模拟
+    - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
+    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
 
-22. **dmcpp-port 伟大航路**
+21. **AI与机器学习**
+    - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
+    - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
+    - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - 语音识别引擎
+
+22. **代码生成与构建**
+    - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
+    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 源码文件分析工具
+    - [dmgen4cmake](https://github.com/brinkqiang/dmgen4cmake) - CMake生成框架
+
+23. **底层与系统编程**
+    - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - 汇编JIT引擎
+    - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - Go语言运行时集成
+    - [dmfake](https://github.com/brinkqiang/dmfake) - 模板元编程框架
+
+24. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
     - [dmgen4sol](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
 
@@ -225,4 +225,3 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
 
     - [dmgen4pymodule](https://github.com/brinkqiang/dmgen4pymodule) - C++ python模块生成器， 会直接生成对应的python模块框架
     - [dmgen4luamodule](https://github.com/brinkqiang/dmgen4luamodule) - C++ lua模块生成器， 会直接生成对应的lua模块框架
-
