@@ -187,6 +187,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
     - [dmvcpkg](https://github.com/brinkqiang/dmvcpkg) - vcpkg 环境设置
     - [vscode-ssh](https://github.com/brinkqiang/vscode-ssh) - vscode 离线 ssh远程调试环境搭建
+    - [dmvscode-cpp](https://github.com/brinkqiang/dmvscode-cpp) - vscode 调试设置
 
 20. **工具与集成**
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码生成
