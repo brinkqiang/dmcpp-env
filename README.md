@@ -106,6 +106,10 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
    - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
    - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
+   - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
+
+
+
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
