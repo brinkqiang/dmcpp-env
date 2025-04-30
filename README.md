@@ -204,6 +204,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
     - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - 语音识别引擎
+    - [dmtinymcp](https://github.com/brinkqiang/dmtinymcp) - tinymcp
 
 22. **代码生成与构建**
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
