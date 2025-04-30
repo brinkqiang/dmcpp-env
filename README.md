@@ -170,6 +170,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmskiplist](https://github.com/brinkqiang/dmskiplist) - skiplist
     - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
+    - [dmlrucache](https://github.com/brinkqiang/dmlrucache) - cache替换算法
 
 16. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
