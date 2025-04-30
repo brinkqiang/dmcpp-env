@@ -109,7 +109,6 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
    - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
 
 
-
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
     - [dmgmock](https://github.com/brinkqiang/dmgmock) - mock框架
@@ -161,6 +160,7 @@ ModuleImport("dmtimer" "thirdparty/dmtimer")
     - [dmdesignpattern](https://github.com/brinkqiang/dmdesignpattern) - 设计模式
     - [dmfruit](https://github.com/brinkqiang/dmfruit) - 依赖注入
     - [dmentitascpp](https://github.com/brinkqiang/dmentitascpp) - 实体组件系统
+    - [dmentt](https://github.com/brinkqiang/dmentt) - 实体组件系统
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
   
 17. **开发环境搭建**
