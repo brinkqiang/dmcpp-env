@@ -36,6 +36,14 @@ include(cmake/ModuleImport.cmake)
 ModuleImport("dmtimer" "thirdparty/dmtimer")
 
 ```
+
+如果不单独指定项目名字， 可使用， 会自动加载thirdparty目录所有项目
+```
+include(cmake/ModuleImport.cmake)
+
+ModuleImportAll("thirdparty")
+
+```
 ## 1.3. 模块列表
 
 1. **日志和调试**
