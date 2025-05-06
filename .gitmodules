@@ -1,0 +1,3 @@
+[submodule "thirdparty/dmtimer"]
+	path = thirdparty/dmtimer
+	url = https://github.com/brinkqiang/dmtimer
