@@ -31,7 +31,7 @@ git submodule add -f https://github.com/brinkqiang/dmtimer ./thirdparty/dmtimer
 ```
 
 ```
-INCLUDE(cmake/ModuleImport.cmake)
+include(cmake/ModuleImport.cmake)
 
 ModuleImport("dmtimer" "thirdparty/dmtimer")
 
