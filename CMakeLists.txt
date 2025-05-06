@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.21)
 
-PROJECT(dmcpp-env)
-INCLUDE(cmake/ModuleImport.cmake)
-INCLUDE(cmake/ModuleCompileOptions.cmake)
+project(dmcpp-env)
+include(cmake/ModuleImport.cmake)
+include(cmake/ModuleCompileOptions.cmake)
 ModuleSetCompileOptions()
 ModuleSetWinCompilerFlags()
 
