@@ -6,4 +6,4 @@ include(cmake/ModuleCompileOptions.cmake)
 ModuleSetCompileOptions()
 ModuleSetWinCompilerFlags()
 
-ModuleImport("dmtimer" "thirdparty/dmtimer")
+ModuleImportAll("thirdparty")
