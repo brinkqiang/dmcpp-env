@@ -95,6 +95,8 @@ ModuleImportAll("thirdparty")
    - [dmcinatra](https://github.com/brinkqiang/dmcinatra) - http
    - [dmzmqpp](https://github.com/brinkqiang/dmzmqpp) - zmq C++封装 中量级 功能较多
    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
+   - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc   
+   - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp       
    - [dmconfigserver](https://github.com/brinkqiang/dmconfigserver) - dmconfigserver
 
 7. **任务与流程管理**
