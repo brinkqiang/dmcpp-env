@@ -4,7 +4,8 @@
 import matplotlib
 import matplotlib.pyplot as plt
 
-matplotlib.rcParams['font.family'] = ['SimHei']
+matplotlib.rcParams['font.family'] = ['SimHei', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', 'sans-serif']
+
 def create_png_from_text(input_file, output_file, fontsize=14):
     with open(input_file, "r", encoding="utf-8") as f:
         text = f.read()
