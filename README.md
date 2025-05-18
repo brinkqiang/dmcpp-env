@@ -221,6 +221,8 @@ ModuleImportAll("thirdparty")
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
     - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - 语音识别引擎
+    - [dmbarkcpp](https://github.com/brinkqiang/dmbarkcpp) - bark
+    - [dmstable-diffusioncpp](https://github.com/brinkqiang/dmstable-diffusioncpp) - stable-diffusion
     - [dmtinymcp](https://github.com/brinkqiang/dmtinymcp) - tinymcp
 
 22. **代码生成与构建**
