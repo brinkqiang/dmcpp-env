@@ -161,8 +161,9 @@ ModuleImportAll("thirdparty")
 12. **跨语言开发**
     - [dmpybindpp](https://github.com/brinkqiang/dmpybindpp) - dmpybindpp
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - sol2 bind in lua
+    - [dmlua](https://github.com/brinkqiang/dmlua) - lua framework
     - [dmllvm-project](https://github.com/brinkqiang/dmllvm-project) - llvm
-    - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast
+    - [dmcppast](https://github.com/brinkqiang/dmcppast) - C++ ast dmcppast-export
     - [dmclang-pass](https://github.com/brinkqiang/dmclang-pass) - clang-pass
     - [dmswig](https://github.com/brinkqiang/dmswig) - swig
 
