@@ -1,0 +1,129 @@
+name: 💬 论坛讨论
+description: 随便聊聊，分享想法，讨论任何话题
+title: "[讨论] 在这里写下你想讨论的主题"
+labels: ['讨论', '交流']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 欢迎来到社区论坛！ 🎉
+        
+        这里是一个开放的讨论空间，你可以：
+        - 💡 分享有趣的想法和见解
+        - 🤔 提出问题寻求帮助
+        - 📚 分享学习经验和资源
+        - 🔧 讨论技术话题
+        - 🎯 寻找项目合作伙伴
+        - 💬 闲聊日常生活
+        - 🌟 或者任何你想分享的内容
+
+  - type: dropdown
+    id: topic-category
+    attributes:
+      label: 📂 话题分类
+      description: 选择最适合的分类（可选）
+      options:
+        - 💻 技术讨论
+        - 📖 学习分享
+        - 🤝 寻求帮助
+        - 💡 想法交流
+        - 🎮 兴趣爱好
+        - 📱 工具推荐
+        - 🌍 行业资讯
+        - 💬 随便聊聊
+        - 🎯 项目合作
+        - 🔍 其他
+    validations:
+      required: false
+
+  - type: textarea
+    id: main-content
+    attributes:
+      label: 💭 你想说什么？
+      description: 在这里畅所欲言吧！可以是问题、想法、经验分享，或者任何你想讨论的内容
+      placeholder: |
+        例如：
+        - 我最近在学习XXX，遇到了一个有趣的问题...
+        - 推荐一个超好用的工具...
+        - 有人一起做XXX项目吗？
+        - 关于XXX话题，我有一些想法...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: 📋 补充信息（可选）
+      description: 如果需要，可以提供更多背景信息、相关链接、代码片段等
+      placeholder: |
+        - 相关链接
+        - 代码片段
+        - 错误信息
+        - 环境信息
+        - 其他补充说明
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: tags
+    attributes:
+      label: 🏷️ 相关标签（可选多选）
+      description: 选择与你的话题相关的标签，帮助其他人找到你的讨论
+      options:
+        - label: 🔰 新手友好
+        - label: 🚀 进阶话题
+        - label: 💼 工作相关
+        - label: 🎓 学习资源
+        - label: 🔥 热门话题
+        - label: 💰 赚钱相关
+        - label: 🎨 创意设计
+        - label: 🤖 AI/机器学习
+        - label: 🌐 开源项目
+        - label: 📺 娱乐八卦
+
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: ⏰ 紧急程度
+      description: 如果是求助贴，标明紧急程度有助于获得更快回复
+      options:
+        - 😎 不急，慢慢聊
+        - 🤔 有空的时候回复就行
+        - ⏰ 比较着急，希望尽快得到回复
+        - 🚨 非常紧急，求大佬救命！
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: participation
+    attributes:
+      label: 🤝 参与方式
+      description: 让大家知道你希望如何参与这个讨论
+      options:
+        - label: 👀 我主要想听听大家的意见
+        - label: 💬 我希望大家积极讨论和交流
+        - label: 🤝 我寻找合作伙伴或团队成员
+        - label: ❓ 我有问题需要解答
+        - label: 📢 我想分享信息给大家
+        - label: 🎯 我想找到志同道合的朋友
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ### 📝 论坛使用小贴士：
+        
+        - **🎨 善用格式**：使用 Markdown 语法让你的内容更易读
+        - **🔍 搜索优先**：发帖前先搜索是否有类似讨论
+        - **🤝 友善交流**：保持礼貌和尊重，营造良好的讨论氛围
+        - **📱 及时回复**：如果有人回复了你，记得及时回应
+        - **⭐ 点赞支持**：看到好的内容记得点赞支持
+        
+        ### 🎉 发帖成功后：
+        - 你的帖子会出现在论坛首页
+        - 其他用户可以通过标签和分类找到你的讨论
+        - 你会收到回复通知
+        - 可以随时编辑和更新你的帖子
+        
+        **祝你在这里玩得开心！** 🚀
