@@ -130,7 +130,9 @@ ModuleImportAll("thirdparty")
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 cron表达式 任务工具
+   - [dmtask](https://github.com/brinkqiang/dmtask) - 简化版 C++17/20 task then 
 
+dmtask
 8. **时间与日期**
    - [dmcctz](https://github.com/brinkqiang/dmcctz) - 时间处理
    - [dmdatetime](https://github.com/brinkqiang/dmdatetime) - 时间处理
