@@ -214,7 +214,7 @@ ModuleImportAll("thirdparty")
     - [dmlrucache](https://github.com/brinkqiang/dmlrucache) - cache替换算法
 
 16. **唯一标识符生成**
-    - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t
+    - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t 无依赖
     - [dmuuid](https://github.com/brinkqiang/dmuuid) - uuid生成
 
 17. **进度与状态**
@@ -231,6 +231,7 @@ ModuleImportAll("thirdparty")
     - [dmevent](https://github.com/brinkqiang/dmevent) - 基于asio
     - [dmrouter](https://github.com/brinkqiang/dmrouter) - C++ router
     - [dmobserver](https://github.com/brinkqiang/dmobserver) -  基于Entt的观察者模式实现
+    - [dmopex](https://github.com/brinkqiang/dmopex) - 结构体操作符
 
 19. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
