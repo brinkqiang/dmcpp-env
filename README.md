@@ -64,7 +64,7 @@ ModuleSetCompileOptions()
 
 ModuleImportAll("thirdparty")
 ```
-3. 以dmstring 这个简单的项目为例, 在项目的根目录执行下面命令添加子模块
+3. 以dmstring 这个简单的项目为例, 在项目的根目录执行下面命令添加子模块, 如果有网络问题 拿到源码直接copy到thirdparty目录也是一样的.
 ```bash
 git submodule add -f https://github.com/brinkqiang/dmstring ./thirdparty/dmstring
 ```
