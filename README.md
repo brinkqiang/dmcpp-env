@@ -229,6 +229,8 @@ ModuleImportAll("thirdparty")
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
     - [dmeventpp](https://github.com/brinkqiang/dmeventpp) - eventpp
     - [dmevent](https://github.com/brinkqiang/dmevent) - 基于asio
+    - [dmrouter](https://github.com/brinkqiang/dmrouter) - C++ router
+    - [dmobserver](https://github.com/brinkqiang/dmobserver) -  基于Entt的观察者模式实现
 
 19. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
@@ -243,6 +245,7 @@ ModuleImportAll("thirdparty")
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
     - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
     - [gitac](https://github.com/brinkqiang/gitac) - GitAutoCommit工具
+  
 21. **AI相关**
     - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
     - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
@@ -252,16 +255,21 @@ ModuleImportAll("thirdparty")
     - [dmtinymcp](https://github.com/brinkqiang/dmtinymcp) - tinymcp
 
 22. **代码生成与构建**
+    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过 dmprojectinfo 分析 当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
-    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 源码文件分析工具
+    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 文件目录结构分析工具
     - [dmgen4cmake](https://github.com/brinkqiang/dmgen4cmake) - CMake生成框架
 
 23. **底层与系统编程**
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - 汇编JIT引擎
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - Go语言运行时集成
     - [dmfake](https://github.com/brinkqiang/dmfake) - 模板元编程框架
+  
+24. **Windows平台补丁**
+    - [dmfix_win_utf8](https://github.com/brinkqiang/dmfix_win_utf8) - 解决Windows平台中文编码乱码问题。
+    - [dmfix_win_console](https://github.com/brinkqiang/dmfix_win_console) - 解决Windows平台控制台颜色设置无效问题。
 
-24. **dmcpp-port 伟大航路**
+25. **dmcpp-port 伟大航路**
     - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
     - [dmgen4sol](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
 

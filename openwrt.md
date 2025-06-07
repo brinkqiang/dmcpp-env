@@ -1,4 +1,4 @@
-# dmcpp-env
+# dmcpp-env-openwrt
 
 
 # C++ cmake 模块化项目
@@ -9,7 +9,7 @@ git submodule add -f https://github.com/brinkqiang/dmcrontask ./thirdparty/dmcro
 ```
 
 ```
-INCLUDE(cmake/ModuleImport.cmake)
+include(cmake/ModuleImport.cmake)
 
 ModuleImport("dmcrontask" "thirdparty/dmcrontask")
 
