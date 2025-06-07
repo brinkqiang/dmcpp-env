@@ -2,6 +2,8 @@
 
 C++ CMake 模块化项目环境
 
+- [Issues](https://github.com/brinkqiang/dmcpp-env/issues) - issues论坛
+
 ---
 
 ## 1.1. 项目简介
