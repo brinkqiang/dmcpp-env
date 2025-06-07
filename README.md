@@ -68,7 +68,7 @@ ModuleImportAll("thirdparty")
 ```bash
 git submodule add -f https://github.com/brinkqiang/dmstring ./thirdparty/dmstring
 ```
-4. 你在项目中指定链接这个库, 如果你是非模块化的项目, 可以用target_link_libraries指定
+4. 在你的项目中指定链接这个库, 如果你是非模块化的项目, 可以用target_link_libraries指定
 
 ```
 cmake_minimum_required(VERSION 3.21)
