@@ -146,7 +146,6 @@ endif()
    - [dmcppzmq](https://github.com/brinkqiang/dmcppzmq) - zmq C++封装 有zmq_ipc 轻量级 纯头文件
    - [dmgrpc](https://github.com/brinkqiang/dmgrpc) - grpc   
    - [dmtarscpp](https://github.com/brinkqiang/dmtarscpp) - tarscpp       
-   - [dmconfigserver](https://github.com/brinkqiang/dmconfigserver) - dmconfigserver
 
 7. **任务与流程管理**
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
@@ -173,8 +172,7 @@ endif()
    - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
    - [dmop](https://github.com/brinkqiang/dmop) - 输入设备模拟库
    - [dmvfspp](https://github.com/brinkqiang/dmvfspp) - 虚拟文件系统
-   - [dmfilesearch](https://github.com/brinkqiang/dmfilesearch) - 命令行版本everything风格文件搜索工具
-  
+
 
 10. **测试与模拟**
     - [dmtest](https://github.com/brinkqiang/dmtest) - test框架
@@ -199,11 +197,8 @@ endif()
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
 
     - [dmmarkdown](https://github.com/brinkqiang/dmmarkdown) - markdown转html
-    - [dmconfig](https://github.com/brinkqiang/dmconfig) - 数据中间件
-    - [dmmsgparser](https://github.com/brinkqiang/dmmsgparser) - 协议中间件
 
     - [dmpropp](https://github.com/brinkqiang/dmpropp) - dmpropp 属性系统
-    - [dmfilepackage](https://github.com/brinkqiang/dmfilepackage) - 文件资源系统结构打包提供api方式访问 类似Windows 资源API.
 
 12. **跨语言开发**
     - [dmpybindpp](https://github.com/brinkqiang/dmpybindpp) - dmpybindpp
