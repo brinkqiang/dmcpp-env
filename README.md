@@ -254,7 +254,6 @@ endif()
 
 20. **工具与集成**
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码生成
-    - [dmiconv](https://github.com/brinkqiang/dmiconv) - 编码转换库
     - [chsrc-win](https://github.com/brinkqiang/chsrc-win) - 命令行换源工具
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
     - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
