@@ -148,8 +148,7 @@ endif()
 
 7. **任务与流程管理**
    - [dmtimer](https://github.com/brinkqiang/dmtimer) - 跨平台timer
-   - [dmflags](https://github.com/brinkqiang/dmflags) - 命令行参数解析
-   - [dmcli11](https://github.com/brinkqiang/dmcli11) - 命令行参数解析
+   - [dmcli11](https://github.com/brinkqiang/dmcli11) - 单头文件命令行参数解析库
    - [dmsubprocess](https://github.com/brinkqiang/dmsubprocess) - 进程控制
    - [dmtaskflow](https://github.com/brinkqiang/dmtaskflow) - 任务工作流
    - [dmcrontask](https://github.com/brinkqiang/dmcrontask) - 跨平台 cron表达式 任务工具
