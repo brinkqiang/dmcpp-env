@@ -254,7 +254,6 @@ endif()
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
     - [dmeventpp](https://github.com/brinkqiang/dmeventpp) - eventpp
     - [dmevent](https://github.com/brinkqiang/dmevent) - 基于asio
-    - [dmopex](https://github.com/brinkqiang/dmopex) - 结构体操作符
 
 19. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
@@ -279,10 +278,8 @@ endif()
     - [dmtinymcp](https://github.com/brinkqiang/dmtinymcp) - tinymcp
 
 22. **代码生成与构建**
-    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过 dmprojectinfo 分析 当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
+    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过分析当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
-    - [dmprojectinfo](https://github.com/brinkqiang/dmprojectinfo) - 文件目录结构分析工具
-    - [dmgen4cmake](https://github.com/brinkqiang/dmgen4cmake) - CMake生成框架
 
 23. **底层与系统编程**
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - 汇编JIT引擎
