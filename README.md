@@ -227,8 +227,6 @@ endif()
     - [dmrecastnavigation](https://github.com/brinkqiang/dmrecastnavigation) - 导航网格
     - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
-    - [dmskiplist](https://github.com/brinkqiang/dmskiplist) - skiplist
-    - [dmconsistent](https://github.com/brinkqiang/dmconsistent) - 一致性hash
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
     - [dmlrucache](https://github.com/brinkqiang/dmlrucache) - cache替换算法
 
