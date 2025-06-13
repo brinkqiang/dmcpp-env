@@ -291,18 +291,5 @@ endif()
     - [dmfix_win_console](https://github.com/brinkqiang/dmfix_win_console) - 解决Windows平台控制台颜色设置无效问题。
 
 25. **dmcpp-port 伟大航路**
-    - [dmsolpp](https://github.com/brinkqiang/dmsolpp) - C++ bind lua 代码框架
-    - [dmgen4sol](https://github.com/brinkqiang/dmgen4sol) - C++ bind lua 生成器
+    - [dmcpp-port](https://github.com/brinkqiang/dmcpp-port) - 跨语言解决方案
 
-    - [dmpybindpp](https://github.com/brinkqiang/dmpybindpp) - C++ bind python 代码框架
-    - [dmgen4pybind](https://github.com/brinkqiang/dmgen4pybind) - C++ bind python 生成器
-
-    - [dmgen4node](https://github.com/brinkqiang/dmgen4node) - C++ bind nodejs 生成器
-    - [dmgen4wasm](https://github.com/brinkqiang/dmgen4wasm) - C++ bind wasm 生成器
-
-    - [dmcsharp-dmprojectinfo](https://github.com/brinkqiang/dmcsharp-dmprojectinfo) - C++ bind C# 流程例子
-    - [dmgodemo](https://github.com/brinkqiang/dmgodemo) - C++ bind go swig 例子
-    - [dmgen4cmake](https://github.com/brinkqiang/dmgen4cmake) - C++ cmake生成框架 可以自动化识别目录结构 生成对应的cmakelist相关文件
-
-    - [dmgen4pymodule](https://github.com/brinkqiang/dmgen4pymodule) - C++ python模块生成器， 会直接生成对应的python模块框架
-    - [dmgen4luamodule](https://github.com/brinkqiang/dmgen4luamodule) - C++ lua模块生成器， 会直接生成对应的lua模块框架
