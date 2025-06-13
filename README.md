@@ -228,7 +228,6 @@ endif()
     - [dmbehaviac](https://github.com/brinkqiang/dmbehaviac) - game AI     
     - [dmbigint](https://github.com/brinkqiang/dmbigint) - uint256_t
     - [dmopenssl](https://github.com/brinkqiang/dmopenssl) - openssl
-    - [dmlrucache](https://github.com/brinkqiang/dmlrucache) - cache替换算法
 
 16. **唯一标识符生成**
     - [dmsnowflake](https://github.com/brinkqiang/dmsnowflake) - 唯一ID生成 uint64_t 无依赖
