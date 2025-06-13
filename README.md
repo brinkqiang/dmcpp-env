@@ -162,14 +162,8 @@ endif()
 
 9. **系统与工具库**
    - [dminfoware](https://github.com/brinkqiang/dminfoware) - 获取系统信息
-   - [dmfilemonitor](https://github.com/brinkqiang/dmfilemonitor) - 文件夹监控
    - [dmzipper](https://github.com/brinkqiang/dmzipper) - zip压缩
    - [dmsnappy](https://github.com/brinkqiang/dmsnappy) - 压缩库
-   - [dmwireshark-portable](https://github.com/brinkqiang/dmwireshark-portable) - wireshark 协议插件
-   - [dmdetours](https://github.com/brinkqiang/dmdetours) - api hook
-   - [dmblackbone](https://github.com/brinkqiang/dmblackbone) - Windows内存工具库支持进程交互、模块管理、线程操作、远程代码执行、挂钩、手动映射及驱动功能。
-   - [dmlief](https://github.com/brinkqiang/dmlief) - 跨平台可执行格式抽象 自实现depends
-   - [dmop](https://github.com/brinkqiang/dmop) - 输入设备模拟库
    - [dmvfspp](https://github.com/brinkqiang/dmvfspp) - 虚拟文件系统
 
 
