@@ -105,8 +105,7 @@ endif()
    - [dmsqlitepp](https://github.com/brinkqiang/dmsqlitepp) - SQLite数据库封装
    - [dmleveldb](https://github.com/brinkqiang/dmleveldb) - kv数据库
    - [dmorm](https://github.com/brinkqiang/dmorm) - mysql orm 简单
-   - [dmdb](https://github.com/brinkqiang/dmdb) - mysql orm 复杂
-   - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
+\   - [dmredispp](https://github.com/brinkqiang/dmredispp) - redis client
    - [dmmongo-cxx-driver](https://github.com/brinkqiang/dmmongo-cxx-driver) - mongo client
    - [dmotl](https://github.com/brinkqiang/dmotl) - otl是一个C++数据库操作库，用于访问各种类型的数据库
    - [dmsqlpp11](https://github.com/brinkqiang/dmsqlpp11) - 领域特定语言 (EDSL) 的orm模板库
