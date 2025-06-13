@@ -259,28 +259,20 @@ endif()
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
     - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
     - [gitac](https://github.com/brinkqiang/gitac) - GitAutoCommit工具
-  
-21. **AI相关**
-    - [dmopenaicpp](https://github.com/brinkqiang/dmopenaicpp) - OpenAI SDK封装
-    - [dmllamacpp](https://github.com/brinkqiang/dmllamacpp) - LLaMA模型推理
-    - [dmwhispercpp](https://github.com/brinkqiang/dmwhispercpp) - 语音识别引擎
-    - [dmbarkcpp](https://github.com/brinkqiang/dmbarkcpp) - bark
-    - [dmstable-diffusioncpp](https://github.com/brinkqiang/dmstable-diffusioncpp) - stable-diffusion
-    - [dmtinymcp](https://github.com/brinkqiang/dmtinymcp) - tinymcp
 
-22. **代码生成与构建**
+21. **代码生成与构建**
     - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过分析当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
 
-23. **底层与系统编程**
+22. **底层与系统编程**
     - [dmasmjit](https://github.com/brinkqiang/dmasmjit) - 汇编JIT引擎
     - [dmlibgo](https://github.com/brinkqiang/dmlibgo) - Go语言运行时集成
     - [dmfake](https://github.com/brinkqiang/dmfake) - 模板元编程框架
   
-24. **Windows平台补丁**
+23. **Windows平台补丁**
     - [dmfix_win_utf8](https://github.com/brinkqiang/dmfix_win_utf8) - 解决Windows平台中文编码乱码问题。
     - [dmfix_win_console](https://github.com/brinkqiang/dmfix_win_console) - 解决Windows平台控制台颜色设置无效问题。
 
-25. **dmcpp-port 伟大航路**
+24. **dmcpp-port 伟大航路**
     - [dmcpp-port](https://github.com/brinkqiang/dmcpp-port) - 跨语言解决方案
 
