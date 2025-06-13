@@ -259,8 +259,6 @@ endif()
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
     - [dmeventpp](https://github.com/brinkqiang/dmeventpp) - eventpp
     - [dmevent](https://github.com/brinkqiang/dmevent) - 基于asio
-    - [dmrouter](https://github.com/brinkqiang/dmrouter) - C++ router
-    - [dmobserver](https://github.com/brinkqiang/dmobserver) -  基于Entt的观察者模式实现
     - [dmopex](https://github.com/brinkqiang/dmopex) - 结构体操作符
 
 19. **开发环境搭建**
