@@ -135,7 +135,6 @@ endif()
 
 6. **网络与通信**
    - [dmdyad](https://github.com/brinkqiang/dmdyad) - 极简socket库 用于熟悉socket流程
-   - [dmmail](https://github.com/brinkqiang/dmmail) - mail客户端 可任意ID发送邮件(gmail有检测, 不行, 163 qq可以)
    - [dmicmp](https://github.com/brinkqiang/dmicmp) - icmp(ping)
    - [dmcurl](https://github.com/brinkqiang/dmcurl) - curl and curlpp
    - [dmcpr](https://github.com/brinkqiang/dmcpr) - 基于curl网络请求库, 类似 Python Requests
