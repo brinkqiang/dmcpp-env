@@ -201,7 +201,6 @@ endif()
     - [luasqlite3 ](https://github.com/brinkqiang/luasqlite3 ) - SQLite数据库绑定
     - [luaiconv](https://github.com/brinkqiang/luaiconv ) - 编码转换模块
     - [luafmt](https://github.com/brinkqiang/luafmt ) - 字符串格式化
-    - [luamail](https://github.com/brinkqiang/luamail ) - 邮件发送模块
     - [luamysql](https://github.com/brinkqiang/luamysql ) - MySQL数据库绑定
     - [luaredis](https://github.com/brinkqiang/luaredis ) - Redis客户端绑定 
     - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - 性能分析工具
