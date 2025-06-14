@@ -126,7 +126,6 @@ endif()
    - [dmabseil-cpp](https://github.com/brinkqiang/dmabseil-cpp) - google基础库
 
 4.  **模板引擎**
-    - [dmtemplate](https://github.com/brinkqiang/dmtemplate) 模板引擎库
     - [dminja](https://github.com/brinkqiang/dminja) - 模板引擎库
 
 5. **内存池与对象管理**
