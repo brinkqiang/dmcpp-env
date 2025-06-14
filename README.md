@@ -204,9 +204,7 @@ endif()
     - [luamysql](https://github.com/brinkqiang/luamysql ) - MySQL数据库绑定
     - [luaredis](https://github.com/brinkqiang/luaredis ) - Redis客户端绑定 
     - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - 性能分析工具
-    - [luaftpserver](https://github.com/brinkqiang/luaftpserver) - FTP服务器(Lua模块)
-    - [luaftp](https://github.com/brinkqiang/luaftp) - FTP客户端(Lua模块)
-  
+
 14. **python模块**
     - [pytimer](https://github.com/brinkqiang/pytimer) - pytimer
     - [pycrypto](https://github.com/brinkqiang/luacrypto) - pycrypto
