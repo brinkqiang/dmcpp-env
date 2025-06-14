@@ -198,7 +198,6 @@ endif()
     - [luatimer](https://github.com/brinkqiang/luatimer) - 定时器模块
     - [luapb](https://github.com/brinkqiang/luapb) - Protocol Buffers支持
     - [luacrypto](https://github.com/brinkqiang/luacrypto) - 加密算法模块
-    - [luaopenai](https://github.com/brinkqiang/luaopenai) - OpenAI API绑定
     - [luasqlite3 ](https://github.com/brinkqiang/luasqlite3 ) - SQLite数据库绑定
     - [luaiconv](https://github.com/brinkqiang/luaiconv ) - 编码转换模块
     - [luafmt](https://github.com/brinkqiang/luafmt ) - 字符串格式化
