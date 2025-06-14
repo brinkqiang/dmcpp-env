@@ -182,7 +182,6 @@ endif()
     - [dmxlsx](https://github.com/brinkqiang/dmxlsx) - xlsx
     - [dmyaml](https://github.com/brinkqiang/dmyaml) - yaml
     - [dmtoml](https://github.com/brinkqiang/dmtoml) - toml
-    - [dmmsgpack](https://github.com/brinkqiang/dmmsgpack) - msgpack
     - [dmprotobuf](https://github.com/brinkqiang/dmprotobuf) - protobuf
     - [dmflatbuffers](https://github.com/brinkqiang/dmflatbuffers) - FlatBuffers
 
