@@ -203,7 +203,6 @@ endif()
     - [luafmt](https://github.com/brinkqiang/luafmt ) - 字符串格式化
     - [luamysql](https://github.com/brinkqiang/luamysql ) - MySQL数据库绑定
     - [luaredis](https://github.com/brinkqiang/luaredis ) - Redis客户端绑定 
-    - [luaprofiler](https://github.com/brinkqiang/luaprofiler ) - 性能分析工具
 
 14. **python模块**
     - [pytimer](https://github.com/brinkqiang/pytimer) - pytimer
