@@ -228,7 +228,6 @@ endif()
     - [dmentt](https://github.com/brinkqiang/dmentt) - 实体组件系统
     - [dmproxy](https://github.com/brinkqiang/dmproxy) - 代理模式
     - [dmeventpp](https://github.com/brinkqiang/dmeventpp) - eventpp
-    - [dmevent](https://github.com/brinkqiang/dmevent) - 基于asio
 
 19. **开发环境搭建**
     - [dmremote_development](https://github.com/brinkqiang/dmremote_development) - vscode 远程开发环境搭建 包含docker环境设置
