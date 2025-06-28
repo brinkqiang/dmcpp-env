@@ -239,11 +239,10 @@ endif()
     - [dmlibqrencode](https://github.com/brinkqiang/dmlibqrencode) - 二维码生成
     - [chsrc-win](https://github.com/brinkqiang/chsrc-win) - 命令行换源工具
     - [dmgit2ssh](https://github.com/brinkqiang/dmgit2ssh) - Git协议转换工具
-    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - cmake-init 是一个自动扫描当前项目源码文件 生成对应的cmakelists的工具
+    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过分析当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
     - [gitac](https://github.com/brinkqiang/gitac) - GitAutoCommit工具
 
 21. **代码生成与构建**
-    - [dmcmake-tools](https://github.com/brinkqiang/dmcmake-tools) - 通过分析当前工程目录下的源码信息, 自动化组织CMakeLists.txt及相关设置
     - [dmninja](https://github.com/brinkqiang/dmninja) - 小型构建系统
 
 22. **底层与系统编程**
